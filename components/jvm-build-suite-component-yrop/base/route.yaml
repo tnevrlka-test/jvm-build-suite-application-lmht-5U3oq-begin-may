@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: jvm-build-suite-component-yrop
     app.kubernetes.io/part-of: jvm-build-suite-application-lmht
-  name: jvm-build-suite-component5dkw
+  name: jvm-build-suite-componentfmh6
   namespace: jvm-build-fwnp-tenant
 spec:
   port:
